@@ -13,6 +13,8 @@ The project also includes a reset option to start a new round without restarting
 
 This game is a small demonstration of basic OOP concepts, event handling, and UI design in Windows Forms.
 
+![Screenshot](Images/Screenshot.png)
+
 
 ## Features
 - Two‑player Tic Tac Toe gameplay
@@ -28,7 +30,7 @@ This game is a small demonstration of basic OOP concepts, event handling, and UI
 2. Build the project.
 3. Run the application and start playing.
 
-
+![Screenshot](Images/Screenshot2.png)
 ## Project Structure
 - Forms for the game interface
 - Logic for checking wins and draws
